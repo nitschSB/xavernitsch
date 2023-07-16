@@ -10,15 +10,31 @@
 [[social]]
 identifier = "github"
 name = "GitHub"
-url = "https://github.com/CaiJimmy/hugo-theme-stack"
+url = "https://github.com/nitschSB"
 
 [social.params]
 icon = "brand-github"
 
 [[social]]
-identifier = "twitter"
-name = "Twitter"
-url = "https://twitter.com"
+identifier = "mail"
+name = "Mail"
+url = "mailto:website@xavernitsch.de"
 
 [social.params]
-icon = "brand-twitter"
+icon = "mail"
+
+[[social]]
+identifier = "xing"
+name = "XING"
+url = "https://www.xing.com/profile/Mario_Melcher4/"
+
+[social.params]
+icon = "brand-xing"
+
+[[social]]
+identifier = "linkedin"
+name = "LinkedIn"
+url = "https://www.linkedin.com/in/mario-m-physicist/"
+
+[social.params]
+icon = "brand-linkedin"
